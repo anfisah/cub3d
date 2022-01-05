@@ -6,7 +6,7 @@
 
 To run the game, make a ```make && ./cub3D map/map.cub``` or ```make && ./cub3D map/map1.cub```
 
-Controls: 
+**Controls:**
 
 Press ```f``` to have a gun and hit points.
 
