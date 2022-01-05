@@ -4,7 +4,7 @@
 
 :question: The aim is to create a Wolfenstein 3D-like game.
 
-To run the game, make a ```make && ./cub3D map/map.cub``` or ```make && ./cub3D map/map1.cub```
+:white_check_mark: To run the game, make a ```make && ./cub3D map/map.cub``` or ```make && ./cub3D map/map1.cub```
 
 > **Controls:**<br>
 > Press ```f``` to have a gun and hit points.<br>
